@@ -363,13 +363,13 @@
    "C:\\Users\\Owner\\Desktop\\Bugs Bunny's Pocket\\Active "
    'production\\unlockPdf\\res\\unlock.ico',
    'DATA'),
-  ('lock.ico',
-   "C:\\Users\\Owner\\Desktop\\Bugs Bunny's Pocket\\Active "
-   'production\\unlockPdf\\res\\lock.ico',
-   'DATA'),
   ('appicon.ico',
    "C:\\Users\\Owner\\Desktop\\Bugs Bunny's Pocket\\Active "
    'production\\unlockPdf\\res\\appicon.ico',
+   'DATA'),
+  ('lock.ico',
+   "C:\\Users\\Owner\\Desktop\\Bugs Bunny's Pocket\\Active "
+   'production\\unlockPdf\\res\\lock.ico',
    'DATA')],
  False,
  False,

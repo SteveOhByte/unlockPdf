@@ -372,18 +372,18 @@
    "C:\\Users\\Owner\\Desktop\\Bugs Bunny's Pocket\\Active "
    'production\\unlockPdf\\res\\unlock.ico',
    'DATA'),
-  ('lock.ico',
-   "C:\\Users\\Owner\\Desktop\\Bugs Bunny's Pocket\\Active "
-   'production\\unlockPdf\\res\\lock.ico',
-   'DATA'),
   ('appicon.ico',
    "C:\\Users\\Owner\\Desktop\\Bugs Bunny's Pocket\\Active "
    'production\\unlockPdf\\res\\appicon.ico',
+   'DATA'),
+  ('lock.ico',
+   "C:\\Users\\Owner\\Desktop\\Bugs Bunny's Pocket\\Active "
+   'production\\unlockPdf\\res\\lock.ico',
    'DATA')],
  [],
  False,
  False,
- 1679688749,
+ 1679694075,
  [('runw.exe',
    'c:\\program '
    'files\\python38\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
