@@ -368,10 +368,6 @@
    "C:\\Users\\Owner\\Desktop\\Bugs Bunny's Pocket\\Active "
    'production\\unlockPdf\\build\\(Un)Lock Pdf\\base_library.zip',
    'DATA'),
-  ('unlock.ico',
-   "C:\\Users\\Owner\\Desktop\\Bugs Bunny's Pocket\\Active "
-   'production\\unlockPdf\\res\\unlock.ico',
-   'DATA'),
   ('appicon.ico',
    "C:\\Users\\Owner\\Desktop\\Bugs Bunny's Pocket\\Active "
    'production\\unlockPdf\\res\\appicon.ico',
@@ -379,11 +375,15 @@
   ('lock.ico',
    "C:\\Users\\Owner\\Desktop\\Bugs Bunny's Pocket\\Active "
    'production\\unlockPdf\\res\\lock.ico',
+   'DATA'),
+  ('unlock.ico',
+   "C:\\Users\\Owner\\Desktop\\Bugs Bunny's Pocket\\Active "
+   'production\\unlockPdf\\res\\unlock.ico',
    'DATA')],
  [],
  False,
  False,
- 1679694075,
+ 1679695998,
  [('runw.exe',
    'c:\\program '
    'files\\python38\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
