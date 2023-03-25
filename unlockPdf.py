@@ -56,7 +56,7 @@ class unlockerFrame ( wx.Frame ):
 
 		mainSizer.Add( ( 0, 0), 1, wx.EXPAND, 5 )
 
-		self.passwordTextCtrl = wx.TextCtrl( self, wx.ID_ANY, u"^Case&LowerCase62", wx.DefaultPosition, wx.Size( 300,-1 ), 0 )
+		self.passwordTextCtrl = wx.TextCtrl( self, wx.ID_ANY, u"password", wx.DefaultPosition, wx.Size( 300,-1 ), 0 )
 		self.passwordTextCtrl.SetFont( wx.Font( 14, wx.FONTFAMILY_SWISS, wx.FONTSTYLE_NORMAL, wx.FONTWEIGHT_SEMIBOLD, False, "Segoe UI Semibold" ) )
 		self.passwordTextCtrl.SetForegroundColour( wx.Colour( 255, 255, 255 ) )
 		self.passwordTextCtrl.SetBackgroundColour( wx.Colour( 21, 21, 21 ) )
